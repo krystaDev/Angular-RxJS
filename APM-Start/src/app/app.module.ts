@@ -21,7 +21,8 @@ import { PageNotFoundComponent } from './page-not-found.component';
   declarations: [
     AppComponent,
     WelcomeComponent,
-    PageNotFoundComponent
+    PageNotFoundComponent],
+  providers: [
   ],
   bootstrap: [AppComponent]
 })
